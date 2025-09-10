@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn[standard]
+python-docx
+pdfminer.six
+language-tool-python
+spacy
+textstat
+pytest
